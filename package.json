@@ -1,0 +1,24 @@
+{
+  "name": "appgambit-slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "content-type": "^1.0.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "raw-body": "^2.3.3",
+    "serverless-http": "^1.8.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.381.0",
+    "serverless-offline": "^3.31.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

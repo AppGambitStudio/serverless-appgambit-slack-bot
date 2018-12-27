@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "date": "14/01/2019",
+            "title": "Makar Sankranti"
+        },
+        {
+            "date": "26/01/2019",
+            "title": "Republic Day"
+        },
+        {
+            "date": "04/03/2019",
+            "title": "Maha Shivaratri"
+        },
+        {
+            "date": "21/03/2019",
+            "title": "Holi"
+        },
+
+        {
+            "date": "13/04/2019",
+            "title": "Ram Navami"
+        },
+        {
+            "date": "19/04/2019",
+            "title": "Good Friday"
+        },
+        {
+            "date": "05/06/2019",
+            "title": "Eid"
+        },
+        {
+            "date": "12/08/2019",
+            "title": "Bakri Eid"
+        },
+
+        {
+            "date": "15/08/2019",
+            "title": "Independence Day"
+        },
+        {
+            "date": "02/10/2019",
+            "title": "Mahatma Gandhi Jayanti"
+        },
+        {
+            "date": "08/10/2019",
+            "title": "Dussehra"
+        },
+        {
+            "date": "27/10/2019",
+            "title": "Diwali"
+        }
+    ]
+}
