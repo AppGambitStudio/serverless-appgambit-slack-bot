@@ -4,8 +4,8 @@
         {"command": "/appgambit time in"},
         {"command": "/appgambit time out"},
         {"command": "/appgambit saturdays"},
-        {"commnad": "/appgambit leaves"},
-        {"command": "/appgambit leaves req sick|paid <dd/mm/yyyy> <dd/mm/yyyy>"},
+        {"command": "/appgambit leaves"},
+        {"command": "/appgambit leaves req <dd/mm/yyyy> <dd/mm/yyyy>"},
         {"command": "/appgambit random"}
     ]
     
